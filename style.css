@@ -1,0 +1,3 @@
+[data-testid="chat_sidebar"] > div > ul > li > a > div  i {
+    display: none!important;
+}
